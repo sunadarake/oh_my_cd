@@ -5,11 +5,18 @@
 
 ## 設定方法
 
-### Linux / Mac
+### Linux
 
 ```bash
 echo 'source ~/Documents/oh_my_cd/oh_my_cd.sh' >> ~/.bashrc
 source ~/.bashrc
+```
+
+### Mac
+
+```bash
+echo 'source ~/Documents/oh_my_cd/oh_my_cd.sh' >> ~/.zshrc
+source ~/.zshrc
 ```
 
 ### Windows (PowerShell)
